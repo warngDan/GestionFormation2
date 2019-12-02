@@ -1,0 +1,76 @@
+h1 {
+	text-align: center;
+}
+
+fieldset {
+	border-color : blue;
+}
+
+legend {
+	font-weight: bold;
+}
+
+div.formulaire1 {
+	display: flex;
+	justify-content: center;
+}
+
+body {
+	width: 850px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+input.submit {
+	margin: 10px;
+    width: auto;
+    height: 40px;
+    border-radius: 9px;
+}
+
+input:focus : {
+	background-color: grey;
+}
+
+input:hover, input:focus {
+	background: #F1F2F2;
+}
+
+
+fieldset {
+	padding: 15px;
+	margin-top: 10px;
+	margin-bottom: auto;
+	background-color: #EEEEC6;
+}
+
+/* label { */
+/*     display: table; */
+/*     padding-right: 10px; */
+/*     color: blue; */
+/* 	cursor: pointer; */
+/* } */
+
+footer {
+	display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: gray;
+    color: #fff;
+}
+
+/* input, radio { */
+/* 	margin-left: 10px; */
+/* 	margin-right: 5px; */
+/* } */
+
+
+
+
+
+/* img { */
+	
+/* } */
+
+

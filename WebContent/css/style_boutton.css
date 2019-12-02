@@ -1,0 +1,11 @@
+
+.monhover {
+	width: 570px;
+	height: 64px;
+	background: gray url("../img/button.png") 0px 0px no-repeat;
+}
+
+.monhover:hover {
+	background-position: 0px -64px;
+}
+
